@@ -1,0 +1,2 @@
+# laravel_v10_sail
+Laravel Sailを使用するテンプレートプロジェクト
